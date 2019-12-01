@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Lewis/Desktop/AdventOfCode19/AdventOfCode19/AdventOfCode19/AdventOfCode19.csproj": {}
+    "/Users/Lewis/Documents/GitHub/AdventOfCode/AdventOfCode19/AdventOfCode19/AdventOfCode19/AdventOfCode19.csproj": {}
   },
   "projects": {
-    "/Users/Lewis/Desktop/AdventOfCode19/AdventOfCode19/AdventOfCode19/AdventOfCode19.csproj": {
+    "/Users/Lewis/Documents/GitHub/AdventOfCode/AdventOfCode19/AdventOfCode19/AdventOfCode19/AdventOfCode19.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Lewis/Desktop/AdventOfCode19/AdventOfCode19/AdventOfCode19/AdventOfCode19.csproj",
+        "projectUniqueName": "/Users/Lewis/Documents/GitHub/AdventOfCode/AdventOfCode19/AdventOfCode19/AdventOfCode19/AdventOfCode19.csproj",
         "projectName": "AdventOfCode19",
-        "projectPath": "/Users/Lewis/Desktop/AdventOfCode19/AdventOfCode19/AdventOfCode19/AdventOfCode19.csproj",
+        "projectPath": "/Users/Lewis/Documents/GitHub/AdventOfCode/AdventOfCode19/AdventOfCode19/AdventOfCode19/AdventOfCode19.csproj",
         "packagesPath": "/Users/Lewis/.nuget/packages/",
-        "outputPath": "/Users/Lewis/Desktop/AdventOfCode19/AdventOfCode19/AdventOfCode19/obj/",
+        "outputPath": "/Users/Lewis/Documents/GitHub/AdventOfCode/AdventOfCode19/AdventOfCode19/AdventOfCode19/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -45,6 +45,10 @@
               "autoReferenced": true
             },
             "System.Linq": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Linq.Expressions": {
               "target": "Package",
               "version": "[4.3.0, )"
             }
