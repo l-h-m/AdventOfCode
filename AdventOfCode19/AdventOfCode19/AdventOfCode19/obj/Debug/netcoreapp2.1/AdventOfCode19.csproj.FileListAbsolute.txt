@@ -1,0 +1,11 @@
+/Users/Lewis/Desktop/AdventOfCode19/AdventOfCode19/AdventOfCode19/bin/Debug/netcoreapp2.1/AdventOfCode19.deps.json
+/Users/Lewis/Desktop/AdventOfCode19/AdventOfCode19/AdventOfCode19/bin/Debug/netcoreapp2.1/AdventOfCode19.runtimeconfig.json
+/Users/Lewis/Desktop/AdventOfCode19/AdventOfCode19/AdventOfCode19/bin/Debug/netcoreapp2.1/AdventOfCode19.runtimeconfig.dev.json
+/Users/Lewis/Desktop/AdventOfCode19/AdventOfCode19/AdventOfCode19/bin/Debug/netcoreapp2.1/AdventOfCode19.dll
+/Users/Lewis/Desktop/AdventOfCode19/AdventOfCode19/AdventOfCode19/bin/Debug/netcoreapp2.1/AdventOfCode19.pdb
+/Users/Lewis/Desktop/AdventOfCode19/AdventOfCode19/AdventOfCode19/obj/Debug/netcoreapp2.1/AdventOfCode19.csprojAssemblyReference.cache
+/Users/Lewis/Desktop/AdventOfCode19/AdventOfCode19/AdventOfCode19/obj/Debug/netcoreapp2.1/AdventOfCode19.csproj.CoreCompileInputs.cache
+/Users/Lewis/Desktop/AdventOfCode19/AdventOfCode19/AdventOfCode19/obj/Debug/netcoreapp2.1/AdventOfCode19.AssemblyInfoInputs.cache
+/Users/Lewis/Desktop/AdventOfCode19/AdventOfCode19/AdventOfCode19/obj/Debug/netcoreapp2.1/AdventOfCode19.AssemblyInfo.cs
+/Users/Lewis/Desktop/AdventOfCode19/AdventOfCode19/AdventOfCode19/obj/Debug/netcoreapp2.1/AdventOfCode19.dll
+/Users/Lewis/Desktop/AdventOfCode19/AdventOfCode19/AdventOfCode19/obj/Debug/netcoreapp2.1/AdventOfCode19.pdb

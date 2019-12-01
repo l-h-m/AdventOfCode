@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Lewis/Desktop/AdventOfCode19/AdventOfCode19/AdventOfCode19/AdventOfCode19.csproj": {}
+  },
+  "projects": {
+    "/Users/Lewis/Desktop/AdventOfCode19/AdventOfCode19/AdventOfCode19/AdventOfCode19.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Lewis/Desktop/AdventOfCode19/AdventOfCode19/AdventOfCode19/AdventOfCode19.csproj",
+        "projectName": "AdventOfCode19",
+        "projectPath": "/Users/Lewis/Desktop/AdventOfCode19/AdventOfCode19/AdventOfCode19/AdventOfCode19.csproj",
+        "packagesPath": "/Users/Lewis/.nuget/packages/",
+        "outputPath": "/Users/Lewis/Desktop/AdventOfCode19/AdventOfCode19/AdventOfCode19/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/Lewis/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "System.Linq": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
