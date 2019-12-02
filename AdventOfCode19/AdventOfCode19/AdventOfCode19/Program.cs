@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
 
 namespace AdventOfCode19
 {
@@ -25,6 +28,10 @@ namespace AdventOfCode19
             }
 
             Console.WriteLine($"Day 1 part 2: {totalMass}");
+
+            var day2input = System.IO.File.ReadAllText(@"/Users/Lewis/Documents/GitHub/AdventOfCode/Inputs/Day1Input");
+            var day2Values = day2input.Split(',')
+;           
         }
 
         private static decimal CalculateMass(decimal totalMass, string value)
